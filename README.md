@@ -2,7 +2,7 @@
 
 > **Enterprise Backend • React Frontends • Data Engineering • Cloud & DevOps Infrastructure**
 
-BAG Nexora is a specialized 3-person engineering pod delivering high-throughput microservices, responsive web dashboards, automated data pipelines, and production cloud infrastructure.
+BAG Nexora is a specialized team delivering high-throughput microservices, responsive web dashboards, automated data pipelines, and production cloud infrastructure.
 
 ---
 
